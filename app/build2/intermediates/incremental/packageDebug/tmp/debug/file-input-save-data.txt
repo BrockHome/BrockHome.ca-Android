@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed May 29 18:39:12 EDT 2019
+1.base=E\:\\Users\\bit86\\AndroidStudioProjects\\BrockHome\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.path=brockhome-nointernet.shtml
+0.baseType=DIRECTORY
+2.base=E\:\\Users\\bit86\\AndroidStudioProjects\\BrockHome\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=images/bhmobilelogo.png
+0.set=ASSET
+0.base=E\:\\Users\\bit86\\AndroidStudioProjects\\BrockHome\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex

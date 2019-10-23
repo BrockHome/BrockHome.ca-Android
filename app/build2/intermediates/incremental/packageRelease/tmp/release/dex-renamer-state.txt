@@ -1,0 +1,4 @@
+#Thu Apr 04 02:35:27 EDT 2019
+base.0=D\:\\Users\\bit86\\AndroidStudioProjects\\BrockHome\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

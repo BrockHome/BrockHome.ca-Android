@@ -1,0 +1,4 @@
+#Wed May 29 18:37:00 EDT 2019
+base.0=E\:\\Users\\bit86\\AndroidStudioProjects\\BrockHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
